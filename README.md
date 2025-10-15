@@ -15,6 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 5. for each data point calculate the difference between the actual and predicted marks
 6. Adjust the values of m and b to reduce the overall error. The gradient descent algorithm helps update these parameters based on the calculated error
 7. Once the model parameters are optimized, use the final equation to predict marks for any new input data
+8. End the process
 
 ## Program:
 Program to implement the simple linear regression model for predicting the marks scored.
